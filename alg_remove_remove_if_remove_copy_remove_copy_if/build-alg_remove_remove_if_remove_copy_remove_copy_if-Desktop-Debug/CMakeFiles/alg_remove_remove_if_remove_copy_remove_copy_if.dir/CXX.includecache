@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dpeleshko/work/C-C++/qt/stl/alg_remove_remove_if_remove_copy_remove_copy_if/alg_remove_remove_if_remove_copy_remove_copy_if/main.cpp
+iostream
+-
+algorithm
+-
+iterator
+-
+vector
+-
+

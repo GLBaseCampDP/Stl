@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dpeleshko/work/C-C++/qt/stl/using_ostream_iterator/using_ostream_iterator/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+algorithm
+-
+iterator
+-
+list
+-
+

@@ -1,0 +1,3 @@
+/home/dpeleshko/work/C-C++/qt/stl/using_ostream_iterator/build-using_ostream_iterator-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/using_ostream_iterator/build-using_ostream_iterator-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/using_ostream_iterator/build-using_ostream_iterator-Desktop-Debug/CMakeFiles/using_ostream_iterator.dir

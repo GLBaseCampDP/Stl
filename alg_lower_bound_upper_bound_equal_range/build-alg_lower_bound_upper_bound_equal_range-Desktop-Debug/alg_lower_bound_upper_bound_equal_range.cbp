@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="alg_lower_bound_upper_bound_equal_range"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="alg_lower_bound_upper_bound_equal_range">
+				<Option output="/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/alg_lower_bound_upper_bound_equal_range" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 alg_lower_bound_upper_bound_equal_range"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="alg_lower_bound_upper_bound_equal_range/fast">
+				<Option output="/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/alg_lower_bound_upper_bound_equal_range" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 alg_lower_bound_upper_bound_equal_range/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/build-alg_lower_bound_upper_bound_equal_range-Desktop-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/alg_lower_bound_upper_bound_equal_range/main.cpp">
+			<Option target="alg_lower_bound_upper_bound_equal_range"/>
+		</Unit>
+		<Unit filename="/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/alg_lower_bound_upper_bound_equal_range/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

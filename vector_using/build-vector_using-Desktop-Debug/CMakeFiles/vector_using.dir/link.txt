@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/vector_using.dir/main.cpp.o  -o vector_using 

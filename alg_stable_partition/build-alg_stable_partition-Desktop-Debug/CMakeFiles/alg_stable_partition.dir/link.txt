@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/alg_stable_partition.dir/main.cpp.o  -o alg_stable_partition 

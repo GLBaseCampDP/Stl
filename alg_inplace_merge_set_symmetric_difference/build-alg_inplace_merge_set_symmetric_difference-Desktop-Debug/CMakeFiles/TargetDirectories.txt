@@ -1,0 +1,3 @@
+/home/dpeleshko/work/C-C++/qt/stl/alg_inplace_merge_set_symmetric_difference/build-alg_inplace_merge_set_symmetric_difference-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/alg_inplace_merge_set_symmetric_difference/build-alg_inplace_merge_set_symmetric_difference-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/alg_inplace_merge_set_symmetric_difference/build-alg_inplace_merge_set_symmetric_difference-Desktop-Debug/CMakeFiles/alg_inplace_merge_set_symmetric_difference.dir

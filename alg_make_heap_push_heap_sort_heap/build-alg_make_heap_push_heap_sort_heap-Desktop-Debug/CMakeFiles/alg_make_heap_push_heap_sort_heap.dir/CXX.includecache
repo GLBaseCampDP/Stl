@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dpeleshko/work/C-C++/qt/stl/alg_make_heap_push_heap_sort_heap/alg_make_heap_push_heap_sort_heap/main.cpp
+iostream
+-
+algorithm
+-
+iterator
+-
+vector
+-
+

@@ -1,0 +1,3 @@
+/home/dpeleshko/work/C-C++/qt/stl/alg_adjacent_difference_partial_sum/build-alg_adjacent_difference_partial_sum-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/alg_adjacent_difference_partial_sum/build-alg_adjacent_difference_partial_sum-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/alg_adjacent_difference_partial_sum/build-alg_adjacent_difference_partial_sum-Desktop-Debug/CMakeFiles/alg_adjacent_difference_partial_sum.dir

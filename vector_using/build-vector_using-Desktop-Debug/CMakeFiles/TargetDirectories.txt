@@ -1,0 +1,3 @@
+/home/dpeleshko/work/C-C++/qt/stl/vector_using/build-vector_using-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/vector_using/build-vector_using-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/vector_using/build-vector_using-Desktop-Debug/CMakeFiles/vector_using.dir

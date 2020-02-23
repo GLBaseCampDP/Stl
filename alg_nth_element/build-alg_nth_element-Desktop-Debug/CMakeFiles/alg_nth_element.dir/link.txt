@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/alg_nth_element.dir/main.cpp.o  -o alg_nth_element 

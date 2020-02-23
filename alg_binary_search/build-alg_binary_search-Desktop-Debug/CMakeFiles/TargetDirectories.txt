@@ -1,0 +1,3 @@
+/home/dpeleshko/work/C-C++/qt/stl/alg_binary_search/build-alg_binary_search-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/alg_binary_search/build-alg_binary_search-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/alg_binary_search/build-alg_binary_search-Desktop-Debug/CMakeFiles/alg_binary_search.dir

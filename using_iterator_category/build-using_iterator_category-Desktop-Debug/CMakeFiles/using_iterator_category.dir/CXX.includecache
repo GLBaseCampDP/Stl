@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dpeleshko/work/C-C++/qt/stl/using_iterator_category/using_iterator_category/main.cpp
+iostream
+-
+vector
+-
+list
+-
+forward_list
+-
+iterator
+-
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dpeleshko/work/C-C++/qt/stl/negators-binders-wrappers/negators-binders-wrappers/main.cpp
+iostream
+-
+iterator
+-
+vector
+-
+algorithm
+-
+functional
+-
+

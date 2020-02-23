@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dpeleshko/work/C-C++/qt/stl/alg_lower_bound_upper_bound_equal_range/alg_lower_bound_upper_bound_equal_range/main.cpp
+vector
+-
+iostream
+-
+algorithm
+-
+vector
+-
+iterator
+-
+

@@ -1,0 +1,3 @@
+/home/dpeleshko/work/C-C++/qt/stl/alg_remove_remove_if_remove_copy_remove_copy_if/build-alg_remove_remove_if_remove_copy_remove_copy_if-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/alg_remove_remove_if_remove_copy_remove_copy_if/build-alg_remove_remove_if_remove_copy_remove_copy_if-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/alg_remove_remove_if_remove_copy_remove_copy_if/build-alg_remove_remove_if_remove_copy_remove_copy_if-Desktop-Debug/CMakeFiles/alg_remove_remove_if_remove_copy_remove_copy_if.dir

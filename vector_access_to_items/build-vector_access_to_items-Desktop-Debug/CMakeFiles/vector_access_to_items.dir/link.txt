@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/vector_access_to_items.dir/main.cpp.o  -o vector_access_to_items 

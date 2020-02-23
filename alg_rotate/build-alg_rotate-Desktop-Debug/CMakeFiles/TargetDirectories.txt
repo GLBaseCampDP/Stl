@@ -1,0 +1,3 @@
+/home/dpeleshko/work/C-C++/qt/stl/alg_rotate/build-alg_rotate-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/alg_rotate/build-alg_rotate-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dpeleshko/work/C-C++/qt/stl/alg_rotate/build-alg_rotate-Desktop-Debug/CMakeFiles/alg_rotate.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dpeleshko/work/C-C++/qt/stl/reference_wrappers/reference_wrappers/main.cpp
+algorithm
+-
+list
+-
+vector
+-
+iostream
+-
+algorithm
+-
+iterator
+-
+functional
+-
+

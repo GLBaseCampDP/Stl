@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/negators-binders-wrappers.dir/main.cpp.o  -o negators-binders-wrappers 
