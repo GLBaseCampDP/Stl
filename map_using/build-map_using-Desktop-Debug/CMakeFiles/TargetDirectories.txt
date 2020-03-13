@@ -1,3 +1,0 @@
-/home/dpeleshko/work/C-C++/qt/stl/map_using/build-map_using-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/dpeleshko/work/C-C++/qt/stl/map_using/build-map_using-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/dpeleshko/work/C-C++/qt/stl/map_using/build-map_using-Desktop-Debug/CMakeFiles/map_using.dir

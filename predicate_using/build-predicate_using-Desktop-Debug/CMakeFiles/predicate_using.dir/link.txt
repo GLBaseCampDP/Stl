@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/predicate_using.dir/main.cpp.o  -o predicate_using 

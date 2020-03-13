@@ -1,3 +1,0 @@
-/home/dpeleshko/work/C-C++/qt/stl/alg_make_heap_push_heap_sort_heap/build-alg_make_heap_push_heap_sort_heap-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/dpeleshko/work/C-C++/qt/stl/alg_make_heap_push_heap_sort_heap/build-alg_make_heap_push_heap_sort_heap-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/dpeleshko/work/C-C++/qt/stl/alg_make_heap_push_heap_sort_heap/build-alg_make_heap_push_heap_sort_heap-Desktop-Debug/CMakeFiles/alg_make_heap_push_heap_sort_heap.dir

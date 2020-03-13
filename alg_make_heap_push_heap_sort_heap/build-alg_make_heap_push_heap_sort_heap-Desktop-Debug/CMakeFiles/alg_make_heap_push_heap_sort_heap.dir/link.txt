@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/alg_make_heap_push_heap_sort_heap.dir/main.cpp.o  -o alg_make_heap_push_heap_sort_heap 

@@ -1,3 +1,0 @@
-/home/dpeleshko/work/C-C++/qt/stl/vector_ctor/build-vector_ctor-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/dpeleshko/work/C-C++/qt/stl/vector_ctor/build-vector_ctor-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/dpeleshko/work/C-C++/qt/stl/vector_ctor/build-vector_ctor-Desktop-Debug/CMakeFiles/vector_ctor.dir

@@ -1,3 +1,0 @@
-/home/dpeleshko/work/C-C++/qt/stl/vector_access_to_items_2/build-vector_access_to_items_2-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/dpeleshko/work/C-C++/qt/stl/vector_access_to_items_2/build-vector_access_to_items_2-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/dpeleshko/work/C-C++/qt/stl/vector_access_to_items_2/build-vector_access_to_items_2-Desktop-Debug/CMakeFiles/vector_access_to_items_2.dir

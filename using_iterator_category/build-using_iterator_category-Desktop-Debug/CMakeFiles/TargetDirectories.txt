@@ -1,3 +1,0 @@
-/home/dpeleshko/work/C-C++/qt/stl/using_iterator_category/build-using_iterator_category-Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/dpeleshko/work/C-C++/qt/stl/using_iterator_category/build-using_iterator_category-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/dpeleshko/work/C-C++/qt/stl/using_iterator_category/build-using_iterator_category-Desktop-Debug/CMakeFiles/using_iterator_category.dir

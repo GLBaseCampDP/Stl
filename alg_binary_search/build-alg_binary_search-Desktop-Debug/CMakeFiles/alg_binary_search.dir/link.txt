@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/alg_binary_search.dir/main.cpp.o  -o alg_binary_search 

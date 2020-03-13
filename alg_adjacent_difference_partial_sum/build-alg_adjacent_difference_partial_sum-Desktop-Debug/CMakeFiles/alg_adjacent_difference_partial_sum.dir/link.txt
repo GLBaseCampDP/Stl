@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/alg_adjacent_difference_partial_sum.dir/main.cpp.o  -o alg_adjacent_difference_partial_sum 

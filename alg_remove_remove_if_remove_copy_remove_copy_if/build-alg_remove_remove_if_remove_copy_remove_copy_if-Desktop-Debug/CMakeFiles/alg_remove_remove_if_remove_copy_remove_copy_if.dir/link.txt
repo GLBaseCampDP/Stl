@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/alg_remove_remove_if_remove_copy_remove_copy_if.dir/main.cpp.o  -o alg_remove_remove_if_remove_copy_remove_copy_if 

@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/vector_ctor.dir/main.cpp.o  -o vector_ctor 
